@@ -4,9 +4,6 @@
 // the first player to go will ley down as may of their cards as they want. then the second player will have a chance to counter their cards with one of their own, as well as play on any open lanes.
 // a counter can only be made with the next color of the rainbow (orange counters red, green counters yellow, etc).
 // the game will end when one player makes four captures.
-//
-//currently working on makeing the lanes display who playd the cards and adding the damage system to the game
-//problems wont show sides, wont change cards for player 1
 
 #include <iostream>
 #include <iomanip>
